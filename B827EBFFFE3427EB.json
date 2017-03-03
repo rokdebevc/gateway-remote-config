@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE3427EB",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.1764,
+    "ref_longitude": 14.566,
+    "ref_altitude": 300,
+    "contact_email": "rok@jedro.org",
+    "description": "Gorenjska 13b Gateway"
+  }
+}
